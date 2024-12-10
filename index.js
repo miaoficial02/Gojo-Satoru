@@ -13,6 +13,7 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
  
+// CAmbia porel Nombre de tu bot
 say('Alya_Bot', {
 font: 'chrome',
 align: 'center',
