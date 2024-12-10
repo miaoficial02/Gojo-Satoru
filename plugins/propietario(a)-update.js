@@ -22,7 +22,7 @@ return null;
 return '*→ ' + line.slice(3) + '*'})
 .filter(Boolean);
 if (conflictedFiles.length > 0) {
-const errorMessage = `${lenguajeGB.smsAvisoFG()} > *Se han encontrado cambios locales en los archivos del bot que entran en conficto con las nuevas actualizaciones del repositorio. para actualizar, reinstalar el bot o realizar las actualizaciones manualmente.*\n\n*\`ARCHIVO EN CONFLICTO :\`*\n\n${conflictedFiles.join('\n')}.*`
+const errorMessage = ` > *Se han encontrado cambios locales en los archivos del bot que entran en conficto con las nuevas actualizaciones del repositorio. para actualizar, reinstalar el bot o realizar las actualizaciones manualmente.*\n\n*\`ARCHIVO EN CONFLICTO :\`*\n\n${conflictedFiles.join('\n')}.*`
 await conn.reply(m.chat, errorMessage, m);  
 }}
 } catch (error) {
