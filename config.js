@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['5214774444444', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['573147616444'], ['14697106545'], ['5492266613038']]
+global.owner = [['5212441357601', 'ＰＲＯＰＩＥＴＡＲＩＯ', true]]
 global.mods = []
 global.prems = []
 
@@ -70,15 +70,15 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = 'LoliBot'
-global.author = 'elrebelde21'
+global.packname = 'AlyaBot'
+global.author = 'Emma (Violets Version)'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
-global.wm = '𝐋𝐨𝐥𝐢𝐁𝐨𝐭-𝐌𝐃' 
-global.botname = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
-global.vs = '1.9.5'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
+global.wm = 'AlyaBot' 
+global.botname = 'AlyaBot'
+global.vs = '1.0.0'
+/*global.yt = 'https://www.youtube.com/@elrebelde.21'
 global.tiktok = 'tiktok.com/@elrebelde21'
 global.md = 'https://github.com/elrebelde21/LoliBot-MD'
 global.fb = 'https://www.facebook.com/elrebelde21'
@@ -135,7 +135,7 @@ global.imagen6 = 'https://qu.ax/CySs.jpg'
 global.menu18 = 'https://qu.ax/MOgO.jpg'
 global.vid1 = 'https://qu.ax/dcAc.mp4'
 global.img = [imagen, imagen1, imagen2, imagen3, imagen4]
-global.imageUrl = ["https://qu.ax/HJnWj.jpg", "https://qu.ax/ehPzQ.jpg", "https://qu.ax/ilfbC.jpg"]
+global.imageUrl = ["https://qu.ax/HJnWj.jpg", "https://qu.ax/ehPzQ.jpg", "https://qu.ax/ilfbC.jpg"]*/
 
 //----------------------------[ NIVELES | RPG ]---------------------------------
 
@@ -161,13 +161,13 @@ global.flaaa = [
 
 //---------------[ IDs de canales ]----------------
 
-global.ch = {
+/*global.ch = {
 ch1: '120363297379773397@newsletter', 
 ch2: '120363355261011910@newsletter', 
 ch3: '120363160031023229@newsletter',
 ch4: '120363301598733462@newsletter',
 ch5: '120363374372683775@newsletter', 
-}
+}*/
 
 //----------------------------------------------------
 
