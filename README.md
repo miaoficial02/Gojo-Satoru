@@ -99,9 +99,6 @@ npm start
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-
-![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
-
 ## 👤 Creador del proyecto
 
 <a href="https://github.com/miaoficial02">
