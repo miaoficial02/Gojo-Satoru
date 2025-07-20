@@ -53,9 +53,6 @@
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-🌐 **¡PUEDES INSTALAR EL BOT EN ALGÚN [HOSTING](https://ctrl.luminarys.shop/)!**
-
-![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
 ### 📲 Click en la imagen para obtener Termux
 <a href="https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.a">
@@ -95,26 +92,6 @@ npm start
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-### ☁️ Instalar desde Cloud Shell
-
-<details>
-<summary><b>🌀  Ver comandos para Cloud Shell</b></summary>
-
-```bash
-apt update && apt upgrade
-```
-
-```bash
-git clone https://github.com/thecarlos19/black-clover-MD && cd black-clover-MD
-```
-
-```bash
-yarn install && npm install
-```
-
-```bash
-npm start
-```
 
 ✅ ¡Bot listo para usarse! El mejor bot de WhatsApp 🥷
 </details>
